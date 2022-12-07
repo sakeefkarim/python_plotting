@@ -1,1 +1,1 @@
-# python_plotting
+# An Introduction to Plotting in Python
